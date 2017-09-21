@@ -1,0 +1,9 @@
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Logica\bin\Debug\Logica.dll
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Logica\bin\Debug\Logica.pdb
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Logica\bin\Debug\Datos.dll
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Logica\bin\Debug\Entidades.dll
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Logica\bin\Debug\Datos.pdb
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Logica\bin\Debug\Entidades.pdb
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Logica\obj\Debug\Logica.dll
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Logica\obj\Debug\Logica.pdb

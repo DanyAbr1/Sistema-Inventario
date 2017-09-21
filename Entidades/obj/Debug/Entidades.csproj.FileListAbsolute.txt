@@ -1,0 +1,4 @@
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Entidades\bin\Debug\Entidades.dll
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Entidades\bin\Debug\Entidades.pdb
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Entidades\obj\Debug\Entidades.dll
+C:\Users\djgre\documents\visual studio 2013\Projects\SistemaTienda\Entidades\obj\Debug\Entidades.pdb
